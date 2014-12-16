@@ -1,0 +1,54 @@
+﻿body {
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}
+
+#num {
+    text-align:center;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+#title {
+    text-align:center;
+    padding-top:100px;
+}
+
+#number{
+    font-size:250px;
+    font-weight:500;
+}
+
+#lottery {
+    font-size:100px;
+    font-family:YouYuan;
+    font-weight:900;
+    color:#EE0000;
+}
+
+#button {
+    text-align:center;
+}
+
+h2 {
+    color:red;
+}
+
+#settings {
+    display:none;
+}
+
+#eclipse {
+    position:fixed;
+    z-index:-1;
+}
